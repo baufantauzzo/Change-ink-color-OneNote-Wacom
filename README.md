@@ -1,5 +1,5 @@
 # Change-ink-color-OneNote-Wacom
-## Script that lets you use your WacomPen buttons to change the ink/color in the OneNote app
+## Script that lets you use your WacomPen buttons to change the ink/color in OneNote
 <br>
 Open "Download and install AutoHotkey" for detailed instructions
 <br>
